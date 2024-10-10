@@ -1,4 +1,4 @@
-![Screenshot (88)](https://github.com/user-attachments/assets/48af555f-8d08-4fcb-96d4-b6bdede396da)# My Music Website -Muzone🎵
+# My Music Website -Muzone🎵
 
 Welcome to **Muzone**, a platform designed to provide users with an immersive experience where they can explore, listen to, and enjoy a wide variety of music. This project is built only User Interface and is focused on delivering a smooth and engaging user experience.
 
@@ -13,17 +13,14 @@ HTML, CSS
 ![Contact us here](https://github.com/user-attachments/assets/5f46ac64-5e28-4826-9765-5cb5fd74c7f8)
 
 _
-📝 Future Improvements
+## 📝Future Improvements
 -Adding more personalization features (e.g., user profiles, liked songs).
 -Integration with external music APIs for a wider variety of songs.
 -Adding Functionalities.
-Offline listening support.
-🏅 Key Achievements
-Built a fully responsive music web app.
-Designed intuitive UI with seamless music playback.
+-Offline listening support.
 
-📫 Contact
-Bharti Gupta
-LinkedIn
-GitHub
+## 🏅 Key Achievements
+-Built a fully responsive music web app.
+-Designed intuitive UI with seamless music playback.
+
 Enjoy the music! 🎧
